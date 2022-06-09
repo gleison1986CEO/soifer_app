@@ -3,7 +3,7 @@ import 'package:parksolution/Screens/Home/Home.dart';
 
 class splash extends StatelessWidget {
   const splash({super.key});
-
+//TESTE SPLASH
   @override
   Widget build(BuildContext context) {
     return Scaffold(
