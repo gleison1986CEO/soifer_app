@@ -1,3 +1,10 @@
+NECESSARIO
+$ git commit -m "initial commit" --allow-empty
+...
+$ git push
+...
+
+
 # parksolution
 
 A new Flutter project.
